@@ -1,4 +1,6 @@
 # 🎬 Smart Movie Finder  
+Empowering Data-Driven Recommendations 
+
 
 ## 📌 Overview  
 The **Smart Movie Finder** is a Python-based recommendation system that suggests movies & anime similar to a user’s favorite movie & anime. It uses **string matching** to find the closest title and **similarity scores** to rank the best recommendations.  
