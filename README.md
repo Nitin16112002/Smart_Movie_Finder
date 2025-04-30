@@ -1,7 +1,7 @@
 # 🎬 Smart Movie Finder  
 
 ## 📌 Overview  
-The **Smart Movie Finder** is a Python-based recommendation system that suggests movies similar to a user’s favorite movie. It uses **string matching** to find the closest title and **similarity scores** to rank the best recommendations.  
+The **Smart Movie Finder** is a Python-based recommendation system that suggests movies & anime similar to a user’s favorite movie & anime. It uses **string matching** to find the closest title and **similarity scores** to rank the best recommendations.  
 
 ## 🚀 How It Works  
 1. The user enters their favorite movie.  
@@ -31,3 +31,17 @@ Enter your favourite movie name: Incepton
 8. The Matrix  
 9. The Departed  
 10. Se7en  
+
+Enter your favourite anime name :  Death Note
+Animes suggested for you : 
+
+1 . Death Note
+2 . Mousou Dairinin
+3 . Death Note Rewrite
+4 . Higurashi no Naku Koro ni Kai
+5 . Mirai Nikki (TV)
+6 . Higurashi no Naku Koro ni Rei
+7 . Higurashi no Naku Koro ni
+8 . Monster
+9 . Mirai Nikki (TV): Ura Mirai Nikki
+10 . Zankyou no Terror
