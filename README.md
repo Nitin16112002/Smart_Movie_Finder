@@ -19,6 +19,7 @@ The **Smart Movie Finder** is a Python-based recommendation system that suggests
 📌 Sample Output
 
 Enter your favourite movie name: Incepton
+
 -Movies suggested for you:
 
 1. Inception  
@@ -33,15 +34,16 @@ Enter your favourite movie name: Incepton
 10. Se7en  
 
 Enter your favourite anime name :  Death Note
-Animes suggested for you : 
 
-1 . Death Note
-2 . Mousou Dairinin
-3 . Death Note Rewrite
-4 . Higurashi no Naku Koro ni Kai
-5 . Mirai Nikki (TV)
-6 . Higurashi no Naku Koro ni Rei
-7 . Higurashi no Naku Koro ni
-8 . Monster
-9 . Mirai Nikki (TV): Ura Mirai Nikki
-10 . Zankyou no Terror
+-Animes suggested for you : 
+
+1. Death Note
+2. Mousou Dairinin
+3. Death Note Rewrite
+4. Higurashi no Naku Koro ni Kai
+5. Mirai Nikki (TV)
+6. Higurashi no Naku Koro ni Rei
+7. Higurashi no Naku Koro ni
+8. Monster
+9. Mirai Nikki (TV): Ura Mirai Nikki
+10. Zankyou no Terror
